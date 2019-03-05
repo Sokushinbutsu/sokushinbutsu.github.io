@@ -1,0 +1,23 @@
+{
+  "name": "sokushinbutsu.github.io",
+  "version": "1.0.0",
+  "description": "Static site with next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sokushinbutsu/Sokushinbutsu.github.io.git"
+  },
+  "keywords": [
+    "next",
+    "react"
+  ],
+  "author": "Brian Nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sokushinbutsu/Sokushinbutsu.github.io/issues"
+  },
+  "homepage": "https://github.com/Sokushinbutsu/Sokushinbutsu.github.io#readme"
+}
